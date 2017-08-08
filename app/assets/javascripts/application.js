@@ -12,4 +12,9 @@
 //
 //= require rails-ujs
 //= require turbolinks
-//= require_tree .
+//= require jquery
+//= require bootstrap.min
+//= require jquery.themepunch.tools.min
+//= require classie
+//= require plugins
+//= require scripts

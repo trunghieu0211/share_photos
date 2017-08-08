@@ -1,0 +1,13 @@
+/*home*/
+#logo h2{
+  color: #fff;
+}
+#logo h2:hover {
+  color: #70aed2;
+}
+#loginup h3 {
+  color: #fff;
+}
+#loginup h3:hover {
+  color: #70aed2;
+}
